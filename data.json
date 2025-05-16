@@ -5,7 +5,7 @@
         "link": "https:\/\/example.com",
         "description": "احصل على خصم 50% الآن!"
     },
-    "warning": {
+    "dialog": {
         "dialog": "on",
         "content": "هام جدا التطبيق اليوم تم ايقافه مؤقتا لاسباب فنيه وجاري العمل على اعادة تشغيل التطبيق"
     },
@@ -255,6 +255,17 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
+        },
+        {
+            "id": 35,
+            "name": "ahmed",
+            "descrip": "dialog",
+            "type": "Telegramchannel",
+            "link": "ع",
+            "field": "ت",
+            "tag": "war",
+            "country": "حرن",
+            "elnasher": "1234"
         }
     ]
 }
