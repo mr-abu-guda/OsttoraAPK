@@ -254,17 +254,6 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
-        },
-        {
-            "id": 40,
-            "name": "js",
-            "descrip": "hs",
-            "type": "Telegramgroub",
-            "link": "gs",
-            "field": "gw",
-            "tag": "war",
-            "country": "yw",
-            "elnasher": "1234"
         }
     ]
 }
