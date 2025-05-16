@@ -9,7 +9,7 @@
         "content": "هام جدا التطبيق اليوم تم ايقافه مؤقتا لاسباب فنيه وجاري العمل على اعادة تشغيل التطبيق"
     },
     "update": {
-        "appversion": "2",
+        "appversion": "201",
         "linkDL": "https:\/\/com-blfym-linkgroup.en.uptodown.com\/android"
     },
     "items": [
@@ -254,17 +254,6 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
-        },
-        {
-            "id": 36,
-            "name": "ahmed",
-            "descrip": "نثنينيني",
-            "type": "Telegramgroub",
-            "link": "http:\/\/blfym.blogspot.com",
-            "field": "حرنكش",
-            "tag": "war",
-            "country": "مس",
-            "elnasher": "1234"
         }
     ]
 }
