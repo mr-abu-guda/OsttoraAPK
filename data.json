@@ -9,6 +9,12 @@
     },
     "items": [
         {
+            "isBanner": true,
+            "show": true,
+            "link": "https:\/\/example.com",
+            "description": "احصل على خصم 50% الآن!"
+        },
+        {
             "id": 1,
             "name": "لينكات جروبات واتساب",
             "descrip": "اي جروب واتساب متاح عندي",
@@ -249,6 +255,17 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
+        },
+        {
+            "id": 34,
+            "name": "😂",
+            "descrip": "😂 😂 😂 😂 ",
+            "type": "Telegramgroub",
+            "link": "http:\/\/blfym.blogspot.com",
+            "field": "💋 ",
+            "tag": "war",
+            "country": "حرن",
+            "elnasher": "1234"
         }
     ]
 }
