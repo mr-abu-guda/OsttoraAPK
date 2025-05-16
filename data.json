@@ -1,4 +1,10 @@
 {
+    "banner": {
+        "isBanner": true,
+        "show": true,
+        "link": "https:\/\/example.com",
+        "description": "احصل على خصم 50% الآن!"
+    },
     "warning": {
         "dialog": "on",
         "content": "هام جدا التطبيق اليوم تم ايقافه مؤقتا لاسباب فنيه وجاري العمل على اعادة تشغيل التطبيق"
@@ -8,12 +14,6 @@
         "linkDL": "https:\/\/com-blfym-linkgroup.en.uptodown.com\/android"
     },
     "items": [
-        {
-            "isBanner": true,
-            "show": true,
-            "link": "https:\/\/example.com",
-            "description": "احصل على خصم 50% الآن!"
-        },
         {
             "id": 1,
             "name": "لينكات جروبات واتساب",
@@ -255,17 +255,6 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
-        },
-        {
-            "id": 34,
-            "name": "😂",
-            "descrip": "😂 😂 😂 😂 ",
-            "type": "Telegramgroub",
-            "link": "http:\/\/blfym.blogspot.com",
-            "field": "💋 ",
-            "tag": "war",
-            "country": "حرن",
-            "elnasher": "1234"
         }
     ]
 }
