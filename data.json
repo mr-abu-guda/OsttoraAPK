@@ -10,7 +10,7 @@
     },
     "update": {
         "appversion": "202",
-        "linkDL": "😘"
+        "linkDL": "https:\/\/blfym.blogspot.com"
     },
     "items": [
         {
@@ -254,17 +254,6 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
-        },
-        {
-            "id": 37,
-            "name": "ahmed",
-            "descrip": "😂 😂 ",
-            "type": "Telegramgroub",
-            "link": "blfym.blogspot.com ",
-            "field": "💋 ",
-            "tag": "vip",
-            "country": "حرن",
-            "elnasher": "1234"
         }
     ]
 }
