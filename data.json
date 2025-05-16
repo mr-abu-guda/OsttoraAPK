@@ -1,9 +1,8 @@
 {
     "banner": {
-        "isBanner": true,
-        "show": true,
+        "text": "احصل على خصم 50% الآن!",
         "link": "https:\/\/example.com",
-        "description": "احصل على خصم 50% الآن!"
+        "active": true
     },
     "dialog": {
         "state": "on",
@@ -255,6 +254,17 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
+        },
+        {
+            "id": 36,
+            "name": "ahmed",
+            "descrip": "نثنينيني",
+            "type": "Telegramgroub",
+            "link": "http:\/\/blfym.blogspot.com",
+            "field": "حرنكش",
+            "tag": "war",
+            "country": "مس",
+            "elnasher": "1234"
         }
     ]
 }
