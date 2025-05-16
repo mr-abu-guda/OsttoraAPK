@@ -2,15 +2,15 @@
     "banner": {
         "text": "احصل على خصم 50% الآن!",
         "link": "https:\/\/example.com",
-        "active": true
+        "active": false
     },
     "dialog": {
         "state": "on",
         "content": "هام جدا التطبيق اليوم تم ايقافه مؤقتا لاسباب فنيه وجاري العمل على اعادة تشغيل التطبيق"
     },
     "update": {
-        "appversion": "201",
-        "linkDL": "https:\/\/com-blfym-linkgroup.en.uptodown.com\/android"
+        "appversion": "202",
+        "linkDL": "😘"
     },
     "items": [
         {
@@ -254,6 +254,17 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
+        },
+        {
+            "id": 37,
+            "name": "ahmed",
+            "descrip": "😂 😂 ",
+            "type": "Telegramgroub",
+            "link": "blfym.blogspot.com ",
+            "field": "💋 ",
+            "tag": "vip",
+            "country": "حرن",
+            "elnasher": "1234"
         }
     ]
 }
