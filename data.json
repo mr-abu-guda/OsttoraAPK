@@ -254,6 +254,17 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
+        },
+        {
+            "id": 47,
+            "name": "ahmed",
+            "descrip": "خ",
+            "type": "Telegramchannel",
+            "link": "ح",
+            "field": "ح",
+            "tag": "vip",
+            "country": "خ",
+            "elnasher": "1234"
         }
     ],
     "admins": {
@@ -264,7 +275,7 @@
                 "id": 1,
                 "name": "أحمد محمود",
                 "role": "مطور التطبيق",
-                "about": "مطور تطبيقات اندرويد ومواقع ويب مدونات بلوجر ",
+                "about": "مطور تطبيقات اندرويد ومواقع ويب و مدونات بلوجر ",
                 "contact": "wa.me\/+201020123482"
             },
             {
