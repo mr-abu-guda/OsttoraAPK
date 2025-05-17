@@ -254,17 +254,6 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
-        },
-        {
-            "id": 44,
-            "name": "ahmed",
-            "descrip": "تصنس",
-            "type": "Telegramgroub",
-            "link": "نسن",
-            "field": "عتصهص",
-            "tag": "vip",
-            "country": "ممسمس",
-            "elnasher": "1234"
         }
     ],
     "admins": {
