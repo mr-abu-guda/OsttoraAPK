@@ -254,6 +254,17 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
+        },
+        {
+            "id": 45,
+            "name": "تتثنص",
+            "descrip": "نين",
+            "type": "WhatsAppgroub",
+            "link": "http:\/\/blfym.blogspot.com",
+            "field": "عس6ص",
+            "tag": "war",
+            "country": "ةصعص",
+            "elnasher": "1234"
         }
     ],
     "admins": {
@@ -266,14 +277,6 @@
                 "role": "مطور التطبيق",
                 "contact": "t.me\/ahmed_admin",
                 "avatar": "https:\/\/example.com\/avatars\/ahmed.jpg",
-                "is_active": true
-            },
-            {
-                "id": 2,
-                "name": "سارة علي",
-                "role": "مشرفة الدعم الفني",
-                "contact": "t.me\/sara_support",
-                "avatar": "https:\/\/example.com\/avatars\/sara.jpg",
                 "is_active": true
             },
             {
