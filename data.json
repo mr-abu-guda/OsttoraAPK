@@ -254,17 +254,6 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
-        },
-        {
-            "id": 47,
-            "name": "ahmed",
-            "descrip": "خ",
-            "type": "Telegramchannel",
-            "link": "ح",
-            "field": "ح",
-            "tag": "vip",
-            "country": "خ",
-            "elnasher": "1234"
         }
     ],
     "admins": {
