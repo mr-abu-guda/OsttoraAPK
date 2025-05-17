@@ -254,6 +254,17 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
+        },
+        {
+            "id": 46,
+            "name": "ahmed",
+            "descrip": "ywuwuw",
+            "type": "Telegramgroub",
+            "link": "63733 ",
+            "field": "ywuw",
+            "tag": "vip",
+            "country": "ueuw",
+            "elnasher": "1234"
         }
     ],
     "admins": {
@@ -265,14 +276,14 @@
                 "name": "أحمد محمود",
                 "role": "مطور التطبيق",
                 "about": "مطور تطبيقات اندرويد ومواقع ويب مدونات بلوجر ",
-                "contact": "t.me\/ahmed_admin"
+                "contact": "wa.me\/+201020123482"
             },
             {
                 "id": 3,
                 "name": "خالد عبدالله",
                 "role": "مشرف المحتوى",
                 "about": "خبير نشر واشهار الجروبات",
-                "contact": "t.me\/khalid_content"
+                "contact": ""
             }
         ]
     }
