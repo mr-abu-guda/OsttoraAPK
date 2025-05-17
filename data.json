@@ -254,17 +254,6 @@
             "tag": "new",
             "country": "غير محدد",
             "elnasher": null
-        },
-        {
-            "id": 45,
-            "name": "تتثنص",
-            "descrip": "نين",
-            "type": "WhatsAppgroub",
-            "link": "http:\/\/blfym.blogspot.com",
-            "field": "عس6ص",
-            "tag": "war",
-            "country": "ةصعص",
-            "elnasher": "1234"
         }
     ],
     "admins": {
@@ -275,17 +264,15 @@
                 "id": 1,
                 "name": "أحمد محمود",
                 "role": "مطور التطبيق",
-                "contact": "t.me\/ahmed_admin",
-                "avatar": "https:\/\/example.com\/avatars\/ahmed.jpg",
-                "is_active": true
+                "about": "مطور تطبيقات اندرويد ومواقع ويب مدونات بلوجر ",
+                "contact": "t.me\/ahmed_admin"
             },
             {
                 "id": 3,
                 "name": "خالد عبدالله",
                 "role": "مشرف المحتوى",
-                "contact": "t.me\/khalid_content",
-                "avatar": "https:\/\/example.com\/avatars\/khalid.jpg",
-                "is_active": false
+                "about": "خبير نشر واشهار الجروبات",
+                "contact": "t.me\/khalid_content"
             }
         ]
     }
