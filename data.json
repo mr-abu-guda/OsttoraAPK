@@ -2,7 +2,7 @@
     "banner": {
         "text": "haha",
         "link": "https:\/\/5555.com",
-        "active": true
+        "active": false
     },
     "dialog": {
         "state": "off",
