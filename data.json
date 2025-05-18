@@ -1,12 +1,12 @@
 {
     "banner": {
-        "text": "تحميل تطبيق واتساب شبيه الآيفون",
-        "link": "https:\/\/blfym.blogspot.com\/2025\/04\/rc.html",
-        "active": true
+        "text": "",
+        "link": "",
+        "active": false
     },
     "dialog": {
         "state": "off",
-        "content": "هام جدا التطبيق اليوم تم ايقافه مؤقتا لاسباب فنيه وجاري العمل على اعادة تشغيل التطبيق"
+        "content": ""
     },
     "update": {
         "appversion": "201",
