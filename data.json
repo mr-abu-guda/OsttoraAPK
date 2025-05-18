@@ -2,7 +2,7 @@
     "banner": {
         "text": "مجاني ",
         "link": "مجاني",
-        "active": false
+        "active": true
     },
     "dialog": {
         "state": "off",
