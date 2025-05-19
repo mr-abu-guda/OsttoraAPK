@@ -276,18 +276,6 @@
             "country": "غير محدد",
             "elnasher": null,
             "created_at": "2025-05-18 03:10:00"
-        },
-        {
-            "id": 50,
-            "name": "تجريبية ",
-            "descrip": "نخحتتخه2ةو",
-            "type": "WhatsAppchannel",
-            "link": "http:\/\/blfym.blogspot.com",
-            "field": "انن",
-            "tag": "war",
-            "country": "ةاتعغ",
-            "elnasher": "1234",
-            "created_at": "2025-05-19 01:27:42"
         }
     ],
     "admins": {
