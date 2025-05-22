@@ -284,7 +284,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/K8XgXb0AU0gDWpjqwc8T2A",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "1234",
             "created_at": "2025-05-19 01:34:57"
@@ -296,10 +296,22 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb29aPt6GcGADWdHw40R",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "1234",
             "created_at": "2025-05-19 01:35:23"
+        },
+        {
+            "id": 56,
+            "name": "لَطَائِفُ الرَّحْمّه 🥹🤎.",
+            "descrip": "جروب ديني ينشر بوستات وآيات قرانيه ",
+            "type": "Telegramgroub",
+            "link": "https:\/\/chat.whatsapp.com\/H7TCVsIkBv24XwDCxit9wL",
+            "field": "دينيه",
+            "tag": "new",
+            "country": "مصر",
+            "elnasher": "hamo",
+            "created_at": "2025-05-22 12:40:07"
         },
         {
             "id": 55,
@@ -308,7 +320,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/Ewbs37HPaLM9V4hrZ4Vi4a",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "المغرب ",
             "elnasher": "hamo",
             "created_at": "2025-05-19 13:30:24"
