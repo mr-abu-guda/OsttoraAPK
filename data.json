@@ -348,18 +348,6 @@
             "country": "مصر",
             "elnasher": "Omarelsobky",
             "created_at": "2025-05-23 13:37:01"
-        },
-        {
-            "id": 59,
-            "name": "نور الإيمان",
-            "descrip": "قناة دينيه ازكار و احاديث",
-            "type": "WhatsAppchannel",
-            "link": "https:\/\/whatsapp.com\/channel\/0029VbAhqUGC6ZvlRDvUlu1J",
-            "field": "دينيه",
-            "tag": "vip",
-            "country": "مصر",
-            "elnasher": "Omarelsobky",
-            "created_at": "2025-05-23 13:37:02"
         }
     ],
     "admins": {
