@@ -336,6 +336,18 @@
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-22 12:42:54"
+        },
+        {
+            "id": 60,
+            "name": "نور الإيمان",
+            "descrip": "قناة دينية ازكار و قرآن",
+            "type": "WhatsAppchannel",
+            "link": "https:\/\/whatsapp.com\/channel\/0029VbAhqUGC6ZvlRDvUlu1J",
+            "field": "دينيه",
+            "tag": "vip",
+            "country": "مصر",
+            "elnasher": "Omarelsobky",
+            "created_at": "2025-05-23 13:40:16"
         }
     ],
     "admins": {
