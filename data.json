@@ -14,18 +14,6 @@
     },
     "items": [
         {
-            "id": 72,
-            "name": "ahmed",
-            "descrip": "😂 😂 😂 ",
-            "type": "WhatsAppgroub",
-            "link": "http:\/\/blfym.blogspot.com",
-            "field": "test",
-            "tag": "new",
-            "country": "",
-            "elnasher": "hamo",
-            "created_at": "2025-05-24 12:37:59"
-        },
-        {
             "id": 70,
             "name": "بوستات",
             "descrip": "بوستات ديني حزن رومنسي معلومات عن البشر",
@@ -499,5 +487,5 @@
             }
         ]
     },
-    "version": "20250524154642"
+    "version": "20250524154703"
 }
