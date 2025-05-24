@@ -17,13 +17,13 @@
             "id": 71,
             "name": "تجريبي",
             "descrip": "😂 😂 😂 😂 😂 ",
-            "type": "",
-            "link": "0.0.0.0 ",
+            "type": "Telegramgroub",
+            "link": "http:\/\/blfym.blogspot.com",
             "field": "بجرب",
             "tag": "new",
             "country": "",
             "elnasher": "hamo",
-            "created_at": "2025-05-24 12:26:08"
+            "created_at": "2025-05-24 12:26:58"
         },
         {
             "id": 70,
@@ -499,5 +499,5 @@
             }
         ]
     },
-    "version": "2025-05-24T15:26:08"
+    "version": "2025-05-24T15:30:18"
 }
