@@ -27,7 +27,7 @@
         },
         {
             "id": 96,
-            "name": "واذكر بك اذا نسيت",
+            "name": "واذكر ربك اذا نسيت",
             "descrip": "خواطر وأذكار واحاديث ",
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/CHLyUcGaHql6kpOhbxsixm",
@@ -35,7 +35,19 @@
             "tag": "new",
             "country": "",
             "elnasher": null,
-            "created_at": "2025-05-24 14:54:40"
+            "created_at": "2025-05-24 14:55:14"
+        },
+        {
+            "id": 98,
+            "name": "POSTAT",
+            "descrip": "بوستات متنوعه",
+            "type": "WhatsAppchannel",
+            "link": "https:\/\/whatsapp.com\/channel\/0029Vb29aPt6GcGADWdHw40R",
+            "field": "بوستات",
+            "tag": "new",
+            "country": "مصر",
+            "elnasher": "hamo",
+            "created_at": "2025-05-24 23:45:12"
         },
         {
             "id": 94,
@@ -775,5 +787,5 @@
             }
         ]
     },
-    "version": "20250524175455"
+    "version": "20250525024512"
 }
