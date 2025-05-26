@@ -230,6 +230,18 @@
             "created_at": "2025-05-25 07:54:01"
         },
         {
+            "id": 125,
+            "name": "رشاقه وتنحيف",
+            "descrip": "جروب رشاقه وتنحيف للبنات",
+            "type": "WhatsAppgroub",
+            "link": "https:\/\/chat.whatsapp.com\/CiAGJvJbQXX081J4ygbJkg",
+            "field": "البنات والموضه",
+            "tag": "new",
+            "country": "مصر",
+            "elnasher": "hamo",
+            "created_at": "2025-05-26 14:39:01"
+        },
+        {
             "id": 124,
             "name": "دعم مشاهدات الستوري ",
             "descrip": "دعم مشاهدات الستوري في واتساب وتبادل اضافه",
@@ -787,5 +799,5 @@
             }
         ]
     },
-    "version": "20250526165308"
+    "version": "20250526173901"
 }
