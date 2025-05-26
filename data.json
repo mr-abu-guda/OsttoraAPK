@@ -116,7 +116,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/whatsappomar3",
             "field": "تطبيقات",
-            "tag": "new",
+            "tag": "",
             "country": "",
             "elnasher": null,
             "created_at": "2025-05-24 14:52:40"
@@ -128,7 +128,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/CHLyUcGaHql6kpOhbxsixm",
             "field": "دينيه",
-            "tag": "new",
+            "tag": "",
             "country": "",
             "elnasher": null,
             "created_at": "2025-05-24 14:55:14"
@@ -140,7 +140,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb29aPt6GcGADWdHw40R",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-24 23:45:12"
@@ -159,51 +159,39 @@
         },
         {
             "id": 93,
-            "name": "دخل إضافي ونجاح مالي على واتساب",
-            "descrip": "لا يسمح بإعلانات في المجموعة دون إذن من الوسيط",
-            "type": null,
+            "name": "دخل إضافي ونجاح مالي ",
+            "descrip": "",
+            "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/J7EHqAGl5s40XzctW3ue3h",
-            "field": "قروبات واتساب الربح من الانترنت",
-            "tag": null,
-            "country": null,
+            "field": "الربح من الانترنت",
+            "tag": "new",
+            "country": "",
             "elnasher": null,
-            "created_at": "2025-05-24 14:50:58"
+            "created_at": "2025-05-26 01:47:51"
         },
         {
             "id": 92,
-            "name": "Programmer Hub على واتساب",
-            "descrip": "لا يسمح بإعلانات في المجموعة دون إذن من الوسيط",
-            "type": null,
+            "name": "Programmer Hub",
+            "descrip": "جروب لتعلم البرمجه",
+            "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/invite\/ErjIWv0Mat2IsvAOxQKlen",
             "field": "قروبات واتساب تعليم",
-            "tag": null,
-            "country": null,
+            "tag": "new",
+            "country": "",
             "elnasher": null,
-            "created_at": "2025-05-24 14:50:58"
+            "created_at": "2025-05-26 01:48:47"
         },
         {
             "id": 91,
-            "name": "إطمئن على واتساب",
-            "descrip": "لا يسمح بإعلانات في المجموعة دون إذن من الوسيط",
-            "type": null,
+            "name": "إطمئن",
+            "descrip": "شريعه إسلامية ",
+            "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/F3mLzPi0KruIiyKrHdyLjw",
-            "field": "قروبات واتساب شريعة اسلامية",
-            "tag": null,
-            "country": null,
+            "field": "دينيه",
+            "tag": "new",
+            "country": "",
             "elnasher": null,
-            "created_at": "2025-05-24 14:50:58"
-        },
-        {
-            "id": 90,
-            "name": "تفاعل ودعم مشاهدات على واتساب",
-            "descrip": "Automatically Meta-->",
-            "type": null,
-            "link": "https:\/\/chat.whatsapp.com\/HCfhCtdElxw5TZdSNMI9TI",
-            "field": "قروبات واتساب منوعات",
-            "tag": null,
-            "country": null,
-            "elnasher": null,
-            "created_at": "2025-05-24 14:50:58"
+            "created_at": "2025-05-26 01:49:38"
         },
         {
             "id": 89,
@@ -512,7 +500,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb6FbWD4inoj11cxPm0z",
             "field": "قصص",
-            "tag": "new",
+            "tag": "",
             "country": "",
             "elnasher": "adminsama",
             "created_at": "2025-05-24 11:17:04"
@@ -524,7 +512,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/whatsapp.com\/channel\/0029VbANsfm5kg75inGa7K0N",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-24 12:23:59"
@@ -557,13 +545,13 @@
             "id": 109,
             "name": "تہوتہه و احہلہيہ بنوتہه",
             "descrip": "للبنات فقط ",
-            "type": "",
+            "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/CPe4asVL8SB6eaVWIAUCSa",
             "field": "تعارف",
             "tag": "new",
             "country": "مصر",
             "elnasher": "hamo",
-            "created_at": "2025-05-25 08:23:23"
+            "created_at": "2025-05-25 08:23:40"
         },
         {
             "id": 56,
@@ -895,5 +883,5 @@
             }
         ]
     },
-    "version": "20250525112323"
+    "version": "20250526044954"
 }
