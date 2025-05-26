@@ -20,7 +20,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/CoyhuKGW4wS9jfAD8KDtOF",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "المغرب",
             "elnasher": "hamo",
             "created_at": "2025-05-25 08:05:54"
@@ -32,7 +32,7 @@
             "type": "",
             "link": "https:\/\/chat.whatsapp.com\/DkbFJ71ld9ULcemqsChxje",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-25 08:03:22"
@@ -44,7 +44,7 @@
             "type": "",
             "link": "https:\/\/chat.whatsapp.com\/KgxJEgzajPQ4orO2IraykU",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-25 08:01:29"
@@ -56,7 +56,7 @@
             "type": "",
             "link": "https:\/\/chat.whatsapp.com\/Id9BFaFyijtJKCJRUL7vdW",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-25 08:00:14"
@@ -68,10 +68,22 @@
             "type": "",
             "link": "https:\/\/chat.whatsapp.com\/GwW3RnaADe9FEDeJJa1vO5",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-25 07:58:34"
+        },
+        {
+            "id": 116,
+            "name": "تجريبي",
+            "descrip": "😂 😂 😂 ",
+            "type": "Telegramchannel",
+            "link": "0.0.0.0 ",
+            "field": "😂 ",
+            "tag": "new",
+            "country": "",
+            "elnasher": "adminsama",
+            "created_at": "2025-05-26 08:51:13"
         },
         {
             "id": 103,
@@ -80,7 +92,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/GDc2p8d33zh1fNfXgdoOAk",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "hamo",
             "created_at": "2025-05-25 07:56:24"
@@ -92,7 +104,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/ISWjpm8mHNpFZhPlWE3QLw",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "hamo",
             "created_at": "2025-05-25 08:03:59"
@@ -104,7 +116,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VagUhyBAYlUE7fGhTf1C",
             "field": "البنات والموضه",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-25 07:56:48"
@@ -212,7 +224,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/HSYDZyye0nDK9lqP9MaOgs",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "السودان",
             "elnasher": "hamo",
             "created_at": "2025-05-25 07:54:01"
@@ -272,7 +284,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VbAm56kKGGGKYFiYDw0P",
             "field": "البنات والموضه",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-25 07:39:32"
@@ -380,10 +392,10 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VbAhqUGC6ZvlRDvUlu1J",
             "field": "دينيه",
-            "tag": "vip",
+            "tag": "",
             "country": "مصر",
             "elnasher": "Omarelsobky",
-            "created_at": "2025-05-24 11:13:59"
+            "created_at": "2025-05-26 07:00:34"
         },
         {
             "id": 57,
@@ -404,7 +416,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/CPe4asVL8SB6eaVWIAUCSa",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "hamo",
             "created_at": "2025-05-25 08:23:40"
@@ -739,5 +751,5 @@
             }
         ]
     },
-    "version": "20250526090025"
+    "version": "20250526115113"
 }
