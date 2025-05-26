@@ -379,11 +379,11 @@
             "descrip": "شغل جميلات جوجل مع ناس جدعان ",
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/G9hgeg861EABaelQoTA1vu",
-            "field": "وظائف",
-            "tag": "",
+            "field": "الربح من الانترنت",
+            "tag": "new",
             "country": "",
             "elnasher": "adminsama",
-            "created_at": "2025-05-24 02:43:27"
+            "created_at": "2025-05-26 14:50:12"
         },
         {
             "id": 67,
@@ -746,18 +746,6 @@
             "created_at": "2025-05-18 03:10:00"
         },
         {
-            "id": 3,
-            "name": "نصائح ومعلومات",
-            "descrip": "معلومات دينيه ومعلومات عامه",
-            "type": "WhatsAppgroub",
-            "link": "https:\/\/chat.whatsapp.com\/JGczzKrGd0v3ZVAHGtPK5j",
-            "field": "معلومات عامه",
-            "tag": "",
-            "country": "مصر",
-            "elnasher": null,
-            "created_at": "2025-05-18 03:10:00"
-        },
-        {
             "id": 1,
             "name": "لينكات جروبات واتساب",
             "descrip": "اي جروب واتساب متاح عندي",
@@ -811,5 +799,5 @@
             }
         ]
     },
-    "version": "20250526174036"
+    "version": "20250526175059"
 }
