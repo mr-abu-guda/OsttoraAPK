@@ -1,8 +1,8 @@
 {
     "banner": {
-        "text": "haha",
+        "text": "تجريبي فقط",
         "link": "https:\/\/5555.com",
-        "active": false
+        "active": true
     },
     "dialog": {
         "state": "off",
@@ -703,5 +703,5 @@
             }
         ]
     },
-    "version": "20250526051204"
+    "version": "20250526061509"
 }
