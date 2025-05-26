@@ -219,15 +219,15 @@
         },
         {
             "id": 79,
-            "name": "أراضي الرياض على واتساب",
-            "descrip": "لا يسمح بإعلانات في المجموعة دون إذن من الوسيط",
-            "type": null,
+            "name": "أراضي الرياض",
+            "descrip": "بيع وشراء أراضٍ",
+            "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/BfBVsP8cKY03vSHp9seYZk",
-            "field": "قروبات واتساب منوعات",
-            "tag": null,
-            "country": null,
+            "field": "بيع وشراء",
+            "tag": "new",
+            "country": "السعودية",
             "elnasher": null,
-            "created_at": "2025-05-24 14:50:58"
+            "created_at": "2025-05-26 01:54:57"
         },
         {
             "id": 78,
@@ -260,18 +260,6 @@
             "type": null,
             "link": "https:\/\/www.whatsapp.com\/channel\/0029Vay7SUYFHWqAlvesO80R",
             "field": "قروبات واتساب الربح من الانترنت",
-            "tag": null,
-            "country": null,
-            "elnasher": null,
-            "created_at": "2025-05-24 14:50:58"
-        },
-        {
-            "id": 75,
-            "name": "قروب ضحك ونشاط على واتساب",
-            "descrip": "Automatically Meta-->",
-            "type": null,
-            "link": "https:\/\/chat.whatsapp.com\/Fbfu3iFvfXnKIW5o8OuApI",
-            "field": "قروبات واتساب منوعات",
             "tag": null,
             "country": null,
             "elnasher": null,
@@ -775,5 +763,5 @@
             }
         ]
     },
-    "version": "20250526045329"
+    "version": "20250526045535"
 }
