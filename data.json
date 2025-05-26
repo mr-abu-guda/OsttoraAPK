@@ -1,8 +1,8 @@
 {
     "banner": {
-        "text": "تجريبي فقط",
+        "text": "",
         "link": "https:\/\/5555.com",
-        "active": true
+        "active": false
     },
     "dialog": {
         "state": "off",
@@ -175,11 +175,11 @@
             "descrip": "جروب لتعلم البرمجه",
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/invite\/ErjIWv0Mat2IsvAOxQKlen",
-            "field": "قروبات واتساب تعليم",
+            "field": "تعليميه",
             "tag": "new",
             "country": "",
             "elnasher": null,
-            "created_at": "2025-05-26 01:48:47"
+            "created_at": "2025-05-26 03:27:12"
         },
         {
             "id": 91,
@@ -703,5 +703,5 @@
             }
         ]
     },
-    "version": "20250526061509"
+    "version": "20250526064639"
 }
