@@ -14,16 +14,28 @@
     },
     "items": [
         {
+            "id": 133,
+            "name": "أثر جميل قبل الرحيل",
+            "descrip": "جروب لنشر النصائح المحمدية والتوجيهات الدينية ",
+            "type": "WhatsAppgroub",
+            "link": "https:\/\/chat.whatsapp.com\/HJt7MONygQf8Jp5oZeV3LG",
+            "field": "دين",
+            "tag": "new",
+            "country": "غير محدد",
+            "elnasher": "احمد محمود",
+            "created_at": "2025-05-28 12:49:27"
+        },
+        {
             "id": 132,
             "name": "بيس العرب",
             "descrip": "قروب متعلق عن لعبه بيس موبيل مباريات وديه اخبار مسابقات بأذن الله",
-            "type": "",
+            "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/HiM5iRVL4MW2EnN55kbLQm",
             "field": "العاب",
             "tag": "new",
             "country": "غير محدد",
             "elnasher": "احمد محمود",
-            "created_at": "2025-05-28 12:39:55"
+            "created_at": "2025-05-28 12:40:10"
         },
         {
             "id": 131,
@@ -835,5 +847,5 @@
             }
         ]
     },
-    "version": "20250528153955"
+    "version": "20250528154927"
 }
