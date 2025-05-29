@@ -9,7 +9,7 @@
         "content": ""
     },
     "update": {
-        "appversion": "201",
+        "appversion": "202",
         "linkDL": "https:\/\/blfym.blogspot.com"
     },
     "items": [
@@ -128,7 +128,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb6M21X4Crfk0Ts4lA1t",
             "field": "دعم حسابات السوشيال",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "سما محمد",
             "created_at": "2025-05-28 04:51:16"
@@ -883,5 +883,5 @@
             }
         ]
     },
-    "version": "20250528171813"
+    "version": "20250529125305"
 }
