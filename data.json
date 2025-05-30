@@ -14,6 +14,18 @@
     },
     "items": [
         {
+            "id": 141,
+            "name": "Doctor Group",
+            "descrip": "مجموعة واتساب معلومات طبيه ",
+            "type": "WhatsAppgroub",
+            "link": "https:\/\/chat.whatsapp.com\/Jr3TIFwlGNK9KCr7FMeObW",
+            "field": "طبيه",
+            "tag": "new",
+            "country": "مصر",
+            "elnasher": "احمد محمود",
+            "created_at": "2025-05-30 02:00:22"
+        },
+        {
             "id": 140,
             "name": "نصيحة جديده",
             "descrip": "نصائح ومعلومات عامه وبوستات",
@@ -924,5 +936,5 @@
             }
         ]
     },
-    "version": "20250530045625"
+    "version": "20250530050022"
 }
