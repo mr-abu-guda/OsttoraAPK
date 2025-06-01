@@ -14,16 +14,28 @@
     },
     "items": [
         {
+            "id": 166,
+            "name": "𝒔𝒕𝒐𝒓𝒚",
+            "descrip": "ستوريهات♠🕊",
+            "type": "WhatsAppchannel",
+            "link": "https:\/\/whatsapp.com\/channel\/0029Va0Ften1CYoW6A1Gde1N",
+            "field": "بوستات",
+            "tag": "new",
+            "country": "مصر",
+            "elnasher": "احمد محمود",
+            "created_at": "2025-06-01 14:17:24"
+        },
+        {
             "id": 165,
             "name": "لو حد سأل عليا أنا هنا بطفح فراشات ",
             "descrip": "محتوي هادي🌚",
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VbAw8BW9sBIEttoa5B2o",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "vip",
             "country": "مصر ",
             "elnasher": "ديدا هاشم",
-            "created_at": "2025-06-01 10:13:19"
+            "created_at": "2025-06-01 10:16:41"
         },
         {
             "id": 163,
@@ -68,7 +80,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/booklab1",
             "field": "طبيه",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "احمد محمود",
             "created_at": "2025-05-31 10:41:45"
@@ -80,7 +92,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/NursingScience1",
             "field": "طبيه",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "احمد محمود",
             "created_at": "2025-05-31 10:39:56"
@@ -92,7 +104,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/Systemic7Medicine",
             "field": "طبيه",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "احمد محمود",
             "created_at": "2025-05-31 10:38:13"
@@ -104,7 +116,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/anaesthesia1994",
             "field": "طبيه",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "احمد محمود",
             "created_at": "2025-05-31 10:35:43"
@@ -116,7 +128,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/Waelology2025",
             "field": "طبيه",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "احمد محمود",
             "created_at": "2025-05-31 10:32:46"
@@ -128,7 +140,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/tanseqelma3ahed",
             "field": "طبيه",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "احمد محمود",
             "created_at": "2025-05-31 10:29:53"
@@ -140,7 +152,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/ZeMahmoud879654",
             "field": "طبيه",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "احمد محمود",
             "created_at": "2025-05-31 10:23:49"
@@ -1190,5 +1202,5 @@
             }
         ]
     },
-    "version": "20250601131603"
+    "version": "20250601171724"
 }
