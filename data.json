@@ -14,6 +14,18 @@
     },
     "items": [
         {
+            "id": 172,
+            "name": "ليطمئن قـلبي 💕",
+            "descrip": "بوستات ديني ونصائح يوميه وفيديوهات قرآنية ",
+            "type": "WhatsAppchannel",
+            "link": "https:\/\/whatsapp.com\/channel\/0029Vb5j8VS89inngOVn260A",
+            "field": "ديني",
+            "tag": "vip",
+            "country": "مصر",
+            "elnasher": "احمد محمود",
+            "created_at": "2025-06-04 14:58:59"
+        },
+        {
             "id": 171,
             "name": "بَبْعـِــد؟!",
             "descrip": "حزن ـ فراق ـ حب",
@@ -92,7 +104,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VbAw8BW9sBIEttoa5B2o",
             "field": "بوستات",
-            "tag": "vip",
+            "tag": "",
             "country": "مصر ",
             "elnasher": "ديدا هاشم",
             "created_at": "2025-06-01 10:16:41"
@@ -104,7 +116,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VavBBmNJZg46AvdAx714",
             "field": "بوستات",
-            "tag": "vip",
+            "tag": "",
             "country": "مصر",
             "elnasher": "احمد محمود",
             "created_at": "2025-06-01 05:11:24"
@@ -1250,5 +1262,5 @@
             }
         ]
     },
-    "version": "20250604065846"
+    "version": "20250604175859"
 }
