@@ -68,7 +68,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/TrueCaller_Z_Bot",
             "field": "بوت",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "احمد محمود",
             "created_at": "2025-06-06 09:35:14"
@@ -1319,8 +1319,35 @@
                 "contact": "    ",
                 "isShow": 1,
                 "items_count": 1
+            },
+            {
+                "id": 9,
+                "name": "نور محمد",
+                "role": "مشرفة جروبات",
+                "about": "مشرفة جروبات واتساب وتيليجرام",
+                "contact": null,
+                "isShow": 1,
+                "items_count": 0
+            },
+            {
+                "id": 10,
+                "name": "ابو دياب",
+                "role": "مشرف جروبات",
+                "about": "مشرف جروبات واتساب وتيليجرام ",
+                "contact": null,
+                "isShow": 1,
+                "items_count": 4
+            },
+            {
+                "id": 12,
+                "name": "ديدا هاشم",
+                "role": "مشرفة جروبات",
+                "about": "مشرفة جروبات واتساب وتيليجرام ",
+                "contact": null,
+                "isShow": 1,
+                "items_count": 1
             }
         ]
     },
-    "version": "20250607182337"
+    "version": "20250607183315"
 }
