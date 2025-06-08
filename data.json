@@ -20,7 +20,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb4IP0B4Y9luqdjRTL3Z",
             "field": "ديني",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "احمد محمود",
             "created_at": "2025-06-07 05:57:19"
@@ -44,7 +44,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/FEdVyCpe7S9Dc7WFvU2Nb7",
             "field": "ديني",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "احمد محمود",
             "created_at": "2025-06-07 05:48:58"
@@ -104,7 +104,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb69DkJBPzjZw3nuTg18",
             "field": "دينية",
-            "tag": "vip",
+            "tag": "",
             "country": "دول العالم اجمع ",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-05 02:34:30"
@@ -1304,11 +1304,11 @@
         "list": [
             {
                 "id": 1,
-                "name": "احمد محمود0",
+                "name": "احمد محمود",
                 "role": "مطور التطبيق",
-                "about": "مطور تطبيقات اندرويد ومواقع ويب",
+                "about": "مطور تطبيقات اندرويد ومواقع ويب وقوالب منصة بلوجر",
                 "contact": "https:\/\/wa.me\/+201020123482",
-                "isShow": 1,
+                "isShow": 0,
                 "items_count": 90
             },
             {
@@ -1349,5 +1349,5 @@
             }
         ]
     },
-    "version": "20250608115030"
+    "version": "20250608131010"
 }
