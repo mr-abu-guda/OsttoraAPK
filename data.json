@@ -14,6 +14,18 @@
     },
     "items": [
         {
+            "id": 187,
+            "name": "purple 💜",
+            "descrip": "بوستات",
+            "type": "WhatsAppchannel",
+            "link": "https:\/\/whatsapp.com\/channel\/0029Vb0LAtjFi8xh12BxSc0P",
+            "field": "بوستات",
+            "tag": "new",
+            "country": "غير محدد",
+            "elnasher": "ابو دياب",
+            "created_at": "2025-06-09 14:25:59"
+        },
+        {
             "id": 186,
             "name": "🪐 مملكتيِ ٰ⤸°",
             "descrip": "بوستات",
@@ -1378,7 +1390,7 @@
                 "about": "مشرف جروبات واتساب وتيليجرام ",
                 "contact": null,
                 "isShow": 1,
-                "items_count": 6
+                "items_count": 7
             },
             {
                 "id": 5,
@@ -1409,5 +1421,5 @@
             }
         ]
     },
-    "version": "20250609172420"
+    "version": "20250609172559"
 }
