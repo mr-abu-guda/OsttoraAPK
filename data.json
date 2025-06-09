@@ -14,18 +14,6 @@
     },
     "items": [
         {
-            "id": 189,
-            "name": "Love of distances",
-            "descrip": "العلاقات لیست قسمة ونصيب اللقاء نصيب ، أما التكملة إختيار",
-            "type": "WhatsAppchannel",
-            "link": "https:\/\/whatsapp.com\/channel\/",
-            "field": "بوستات",
-            "tag": "new",
-            "country": "غير محدد",
-            "elnasher": "ابو دياب",
-            "created_at": "2025-06-09 14:31:58"
-        },
-        {
             "id": 188,
             "name": "Love of distances",
             "descrip": "العلاقات لیست قسمة ونصيب اللقاء نصيب ، أما التكملة إختيار",
@@ -1378,7 +1366,7 @@
                 "about": "مشرف جروبات واتساب وتيليجرام ",
                 "contact": null,
                 "isShow": 1,
-                "items_count": 9
+                "items_count": 8
             },
             {
                 "id": 5,
@@ -1409,5 +1397,5 @@
             }
         ]
     },
-    "version": "20250609173158"
+    "version": "20250609173210"
 }
