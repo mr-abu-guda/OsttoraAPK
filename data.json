@@ -62,18 +62,6 @@
             "created_at": "2025-06-09 14:05:49"
         },
         {
-            "id": 182,
-            "name": "ahmed",
-            "descrip": "am3541500@gmail.com ",
-            "type": "Telegramchannel",
-            "link": "0.0.0.0",
-            "field": "بوستات",
-            "tag": "new",
-            "country": "مصر",
-            "elnasher": "احمد محمود",
-            "created_at": "2025-06-09 11:06:03"
-        },
-        {
             "id": 181,
             "name": "ahmed",
             "descrip": "",
@@ -1369,7 +1357,7 @@
                 "about": "مطور تطبيقات اندرويد ومواقع ويب وقوالب منصة بلوجر",
                 "contact": "https:\/\/wa.me\/+201020123482",
                 "isShow": 1,
-                "items_count": 92
+                "items_count": 91
             },
             {
                 "id": 10,
@@ -1409,5 +1397,5 @@
             }
         ]
     },
-    "version": "20250609172850"
+    "version": "20250609172903"
 }
