@@ -14,6 +14,18 @@
     },
     "items": [
         {
+            "id": 205,
+            "name": "بوت مهمات برمجيه",
+            "descrip": "بوت بيعملك الانت عاوزو",
+            "type": "Telegramchannel",
+            "link": "https:\/\/t.me\/ELSOBKY_CREATIONS_bot",
+            "field": "بوت مهمات",
+            "tag": "vip",
+            "country": "الوطن العربي",
+            "elnasher": "عمر السبكي",
+            "created_at": "2025-06-09 17:22:32"
+        },
+        {
             "id": 204,
             "name": "نور الإيمان",
             "descrip": "قناة واتساب دينيه موثوقه",
@@ -1555,7 +1567,7 @@
                 "about": "مشرف جروبات واتساب وتيليجرام ومراقب عام",
                 "contact": "    ",
                 "isShow": 1,
-                "items_count": 6
+                "items_count": 7
             },
             {
                 "id": 12,
@@ -1577,5 +1589,5 @@
             }
         ]
     },
-    "version": "20250609201957"
+    "version": "20250609202232"
 }
