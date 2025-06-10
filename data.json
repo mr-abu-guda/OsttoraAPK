@@ -14,6 +14,18 @@
     },
     "items": [
         {
+            "id": 201,
+            "name": "جروب رمضان 2026",
+            "descrip": "جروب واتساب رمضان 2026",
+            "type": "WhatsAppgroub",
+            "link": "https:\/\/chat.whatsapp.com\/HlySbyhU0AVJyD1BB35xMH",
+            "field": "جروب رمضاني 2026",
+            "tag": "vip",
+            "country": "الوطن العربي",
+            "elnasher": "عمر السبكي",
+            "created_at": "2025-06-09 17:07:03"
+        },
+        {
             "id": 200,
             "name": "نور الإيمان",
             "descrip": "قناة ديني موثقه",
@@ -1507,7 +1519,7 @@
                 "about": "مشرف جروبات واتساب وتيليجرام ومراقب عام",
                 "contact": "    ",
                 "isShow": 1,
-                "items_count": 2
+                "items_count": 3
             },
             {
                 "id": 12,
@@ -1529,5 +1541,5 @@
             }
         ]
     },
-    "version": "20250609195940"
+    "version": "20250609200704"
 }
