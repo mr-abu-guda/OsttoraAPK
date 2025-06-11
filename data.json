@@ -104,7 +104,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vaqb8xJ6LwHiWd6ztF1N",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 15:09:24"
@@ -116,7 +116,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb5nPQO5PO19DrBPTx0Y",
             "field": "كلام عميق",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 15:06:35"
@@ -128,7 +128,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb5nPQO5PO19DrBPTx0Y",
             "field": "كلام عميق",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 15:06:33"
@@ -140,7 +140,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VbATVL5ICVfqEuo9Pb2G",
             "field": "ديني",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:53:58"
@@ -152,7 +152,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VbATVL5ICVfqEuo9Pb2G",
             "field": "ديني",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:53:56"
@@ -164,7 +164,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VamzhZyGJP8ImVqf5S1B",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:52:31"
@@ -176,7 +176,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/GglZH1xR2I4FaNwjSAsx6N",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:44:33"
@@ -188,7 +188,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/FlLUY5GYJwC3DsfoLpXHpk",
             "field": "تعارف",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:39:49"
@@ -200,7 +200,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb5Pm55KWEKsoKfmev1s",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:32:35"
@@ -212,7 +212,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb5Pm55KWEKsoKfmev1s",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:32:33"
@@ -224,7 +224,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:31:56"
@@ -236,7 +236,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb0LAtjFi8xh12BxSc0P",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:25:59"
@@ -248,7 +248,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/I1zX85qJ2R7LwUPQrtfXkv",
             "field": "بوستات",
-            "tag": "new",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:24:20"
@@ -260,7 +260,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VatsWyz0lwgqGQZlJh2d",
             "field": "ديني",
-            "tag": "new",
+            "tag": "",
             "country": "مصر",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:20:39"
@@ -1601,5 +1601,5 @@
             }
         ]
     },
-    "version": "20250610170710"
+    "version": "20250611122258"
 }
