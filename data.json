@@ -14,6 +14,18 @@
     },
     "items": [
         {
+            "id": 208,
+            "name": "الطمأنينة ",
+            "descrip": "‎|￣￣￣￣￣￣￣￣￣￣￣|\r\n‎|     انضموا  إلى قناتي فضلاً     |\r\n‎|＿＿＿＿＿＿＿＿＿__＿| \r\n‎               \\ (•◡•) \/ \r\n‎                 \\      \/ \r\n‎                   ا---ا    \r\n‎                   |   |\r\n",
+            "type": "WhatsAppchannel",
+            "link": "https:\/\/whatsapp.com\/channel\/0029Vb69DkJBPzjZw3nuTg18 ١",
+            "field": "٠",
+            "tag": "vip",
+            "country": "غير محدد",
+            "elnasher": "ابو دياب",
+            "created_at": "2025-06-14 09:10:09"
+        },
+        {
             "id": 207,
             "name": "هتعجبك بإذن الله وهتستفيد ادخل وشفها بنفسك ",
             "descrip": "ارح قلبك وسمعك وبصرك 🥹",
@@ -44,7 +56,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/ELSOBKY_CREATIONS_bot",
             "field": "بوت مهمات",
-            "tag": "vip",
+            "tag": "",
             "country": "الوطن العربي",
             "elnasher": "عمر السبكي",
             "created_at": "2025-06-09 17:22:32"
@@ -56,7 +68,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/chat.whatsapp.com\/HlySbyhU0AVJyD1BB35xMH",
             "field": "ديني موثوقه",
-            "tag": "vip",
+            "tag": "",
             "country": "الوطن العربي",
             "elnasher": "عمر السبكي",
             "created_at": "2025-06-09 17:19:57"
@@ -68,7 +80,7 @@
             "type": "instagram",
             "link": "https:\/\/www.instagram.com\/alarabiya_egy?igsh=cmFzb2t3ZGJmc2I3",
             "field": "اخباريه",
-            "tag": "vip",
+            "tag": "",
             "country": "مصر",
             "elnasher": "عمر السبكي",
             "created_at": "2025-06-09 17:12:35"
@@ -80,7 +92,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/HlySbyhU0AVJyD1BB35xMH",
             "field": "جروب رمضاني 2026",
-            "tag": "vip",
+            "tag": "",
             "country": "الوطن العربي",
             "elnasher": "عمر السبكي",
             "created_at": "2025-06-09 17:09:53"
@@ -92,7 +104,7 @@
             "type": "WhatsAppgroub",
             "link": "https:\/\/chat.whatsapp.com\/HlySbyhU0AVJyD1BB35xMH",
             "field": "جروب رمضاني 2026",
-            "tag": "vip",
+            "tag": "",
             "country": "الوطن العربي",
             "elnasher": "عمر السبكي",
             "created_at": "2025-06-09 17:07:03"
@@ -104,7 +116,7 @@
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029VbAhqUGC6ZvlRDvUlu1J",
             "field": "ديني موثوقه",
-            "tag": "vip",
+            "tag": "",
             "country": "الوطن العربي",
             "elnasher": "عمر السبكي",
             "created_at": "2025-06-09 16:59:40"
@@ -284,7 +296,7 @@
             "type": "instagram",
             "link": "https:\/\/www.instagram.com\/_apo_diab?igsh=MThrMHE0dGFxbW41cA==",
             "field": "ديني",
-            "tag": "vip",
+            "tag": "",
             "country": "جميع أنحاء العالم",
             "elnasher": "ابو دياب",
             "created_at": "2025-06-09 14:05:49"
@@ -296,7 +308,7 @@
             "type": "Telegramchannel",
             "link": "https:\/\/t.me\/blfymlogobot",
             "field": "بوت",
-            "tag": "vip",
+            "tag": "",
             "country": "مصر",
             "elnasher": "احمد محمود",
             "created_at": "2025-06-09 10:14:23"
@@ -1582,7 +1594,7 @@
                 "about": "مشرف جروبات واتساب وانستجرام ديني فقط ",
                 "contact": "https:\/\/wa.me\/+201068602781",
                 "isShow": 1,
-                "items_count": 19
+                "items_count": 20
             },
             {
                 "id": 5,
@@ -1613,5 +1625,5 @@
             }
         ]
     },
-    "version": "20250612044847"
+    "version": "20250614121009"
 }
