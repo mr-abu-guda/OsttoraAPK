@@ -19,11 +19,11 @@
             "descrip": "بدون وصف",
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb6CJSN9mrGgQ73QAA3V",
-            "field": "خاص بنات",
+            "field": "بوستات بنات",
             "tag": "new",
             "country": "مصر",
             "elnasher": "احمد محمود",
-            "created_at": "2025-06-23 13:49:47"
+            "created_at": "2025-06-23 13:57:56"
         },
         {
             "id": 210,
@@ -1577,5 +1577,5 @@
             }
         ]
     },
-    "version": "20250623164947"
+    "version": "20250623165756"
 }
