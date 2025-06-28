@@ -974,18 +974,6 @@
             "created_at": "2025-05-26 13:18:29"
         },
         {
-            "id": 113,
-            "name": "بدو مصر",
-            "descrip": "بوستات بدويه متنوعة",
-            "type": "WhatsAppgroub",
-            "link": "https:\/\/chat.whatsapp.com\/EalvK0rnouVFKxBzGOnhk1",
-            "field": "بوستات",
-            "tag": "",
-            "country": "مصر",
-            "elnasher": "سما محمد",
-            "created_at": "2025-05-26 11:55:20"
-        },
-        {
             "id": 115,
             "name": "مسابقات علي فلوس",
             "descrip": "مسابقات علي فلوس",
@@ -1517,5 +1505,5 @@
             }
         ]
     },
-    "version": "20250628171803"
+    "version": "20250628171816"
 }
