@@ -974,18 +974,6 @@
             "created_at": "2025-05-26 13:18:29"
         },
         {
-            "id": 115,
-            "name": "مسابقات علي فلوس",
-            "descrip": "مسابقات علي فلوس",
-            "type": "WhatsAppchannel",
-            "link": "https:\/\/whatsapp.com\/channel\/0029Vb5vlHCADTOA87hCYN3w",
-            "field": "مسابقات علي فلوس",
-            "tag": "",
-            "country": "غير محدد",
-            "elnasher": "سما محمد",
-            "created_at": "2025-05-26 06:00:25"
-        },
-        {
             "id": 92,
             "name": "Programmer Hub",
             "descrip": "جروب لتعلم البرمجه",
@@ -1505,5 +1493,5 @@
             }
         ]
     },
-    "version": "20250628171816"
+    "version": "20250628171829"
 }
