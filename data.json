@@ -14,13 +14,25 @@
     },
     "items": [
         {
+            "id": 219,
+            "name": "شغل اولاين ومن البيت",
+            "descrip": "الشغل عباره عن عمل جيميلات وادخل وهتعرف باقي التفاصيل ",
+            "type": "WhatsAppchannel",
+            "link": "https:\/\/whatsapp.com\/channel\/0029VbBVFniKWEKwgt1G1R3h",
+            "field": "شغل اولاين ",
+            "tag": "vip",
+            "country": "مصر",
+            "elnasher": "ابو دياب",
+            "created_at": "2025-09-04 22:32:14"
+        },
+        {
             "id": 218,
             "name": "رسائل لك ",
             "descrip": "ادخل وسوف تستفيد وان استفد ف فيد غيرك \r\nوالدال على الخير كفاعله ♡♡  ",
             "type": "WhatsAppchannel",
             "link": "https:\/\/whatsapp.com\/channel\/0029Vb5yUITHVvTcfQDs2c1s",
             "field": "دينيه",
-            "tag": "vip",
+            "tag": "",
             "country": "غير محدد",
             "elnasher": "ابو دياب",
             "created_at": "2025-07-14 03:28:41"
@@ -1438,7 +1450,7 @@
                 "about": "مشرف جروبات واتساب وانستجرام ديني فقط ",
                 "contact": "https:\/\/wa.me\/+201068602781",
                 "isShow": 1,
-                "items_count": 19
+                "items_count": 20
             },
             {
                 "id": 5,
@@ -1469,5 +1481,5 @@
             }
         ]
     },
-    "version": "20250714062841"
+    "version": "20250905013214"
 }
